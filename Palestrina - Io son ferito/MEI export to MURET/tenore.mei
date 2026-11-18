@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/5.1/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/5.1/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.1">
+    <meiHead>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <pubStmt/>
+        </fileDesc>
+    </meiHead>
+    <music>
+        <body>
+            <mdiv>
+                <score>
+                    <scoreDef>
+                        <staffGrp>
+                            <staffDef n="1" lines="5" notationtype="mensural.white" xml:id="_3">
+                                <clef shape="C" line="3" xml:id="_5"/>
+                            </staffDef>
+                        </staffGrp>
+                    </scoreDef>
+                    <section>
+                        <staff n="1">
+                            <layer n="1">
+                                <pb xml:id="b8a32e58-0af2-4a18-8537-4833a1b89c06"/>
+                                <note pname="g" oct="4" dur="minima" stem.dir="down" xml:id="_6"/>
+                                <note pname="d" oct="4" dur="minima" stem.dir="down" xml:id="_7"/>
+                                <note pname="f" oct="4" dur="semiminima" stem.dir="down" xml:id="_8"/>
+                                <note pname="c" oct="4" dur="minima" stem.dir="up" xml:id="_9"/>
+                                <note pname="b" oct="3" dur="semiminima" stem.dir="up" xml:id="_10"/>
+                                <note pname="a" oct="3" dur="semiminima" stem.dir="up" xml:id="_11"/>
+                                <note pname="a" oct="4" dur="semiminima" stem.dir="down" xml:id="_12"/>
+                                <note pname="a" oct="4" dur="minima" stem.dir="down" xml:id="_13"/>
+                                <note pname="g" oct="4" dur="minima" stem.dir="down" xml:id="_14"/>
+                                <note pname="f" oct="4" dur="semiminima" stem.dir="down" xml:id="_15"/>
+                                <note pname="d" oct="4" dur="semiminima" stem.dir="down" xml:id="_16"/>
+                                <note pname="e" oct="4" dur="minima" stem.dir="down" xml:id="_17"/>
+                                <note pname="g" oct="4" dur="fusa" stem.dir="down" xml:id="_18"/>
+                                <note pname="d" oct="4" dur="fusa" stem.dir="down" xml:id="_19"/>
+                                <note pname="f" oct="4" dur="semiminima" stem.dir="down" xml:id="_20"/>
+                                <note pname="e" oct="4" dur="minima" stem.dir="down" xml:id="_21"/>
+                                <note pname="d" oct="4" dur="minima" stem.dir="down" xml:id="_22"/>
+                                <note pname="f" oct="4" dur="minima" stem.dir="down" xml:id="_23"/>
+                                <note pname="f" oct="4" dur="minima" stem.dir="down" xml:id="_24"/>
+                                <note pname="g" oct="4" dur="minima" stem.dir="down" xml:id="_25"/>
+                                <note pname="e" oct="4" dur="semiminima" stem.dir="down" xml:id="_26"/>
+                                <note pname="e" oct="4" dur="semiminima" stem.dir="down" xml:id="_27"/>
+                                <note pname="f" oct="4" dur="semiminima" stem.dir="down" xml:id="_28"/>
+                                <note pname="c" oct="4" dur="semiminima" stem.dir="up" xml:id="_29"/>
+                                <note pname="d" oct="4" dur="minima" stem.dir="down" xml:id="_30"/>
+                                <note pname="c" oct="4" dur="semiminima" stem.dir="up" xml:id="_31"/>
+                                <note pname="b" oct="3" dur="fusa" stem.dir="up" xml:id="_32"/>
+                                <note pname="a" oct="3" dur="fusa" stem.dir="up" xml:id="_33"/>
+                                <note pname="b" oct="3" dur="minima" stem.dir="up" xml:id="_34"/>
+                                <note pname="a" oct="3" dur="longa" stem.dir="up" xml:id="_35"/>
+                                <barLine xml:id="_36"/>
+                                <barLine xml:id="_37"/>
+                                <sb xml:id="_0f851be5-7cb4-4677-97fe-19deee3b57ae"/>
+                                <mensur sign="C" slash="1" xml:id="_39"/>
+                                <note pname="e" oct="4" dur="semibrevis" xml:id="_40"/>
+                                <note pname="e" oct="4" dur="minima" stem.dir="down" xml:id="_41"/>
+                                <note pname="e" oct="4" dur="minima" stem.dir="down" xml:id="_42"/>
+                                <note pname="d" oct="4" dur="minima" stem.dir="down" xml:id="_43"/>
+                                <note pname="c" oct="4" dur="minima" stem.dir="up" xml:id="_44"/>
+                                <note pname="f" oct="4" dur="semibrevis" xml:id="_45"/>
+                                <note pname="e" oct="4" dur="minima" stem.dir="down" xml:id="_46"/>
+                                <note pname="e" oct="4" dur="minima" stem.dir="down" xml:id="_47"/>
+                                <note pname="a" oct="4" dur="minima" stem.dir="down" xml:id="_48"/>
+                                <dot form="aug" xml:id="_49"/>
+                                <note pname="g" oct="4" dur="semiminima" stem.dir="down" xml:id="_50"/>
+                                <note pname="f" oct="4" dur="minima" stem.dir="down" xml:id="_51"/>
+                                <note pname="e" oct="4" dur="minima" stem.dir="down" xml:id="_52"/>
+                                <dot form="aug" xml:id="_53"/>
+                                <note pname="d" oct="4" dur="semiminima" stem.dir="down" xml:id="_54"/>
+                                <note pname="d" oct="4" dur="semibrevis" xml:id="_55"/>
+                                <note pname="c" oct="4" dur="semiminima" stem.dir="up" xml:id="_56"/>
+                                <note pname="b" oct="3" dur="semiminima" stem.dir="up" xml:id="_57"/>
+                                <note pname="c" oct="4" dur="semibrevis" xml:id="_58"/>
+                                <note pname="d" oct="4" dur="brevis" xml:id="_59"/>
+                                <rest dur="semibrevis" xml:id="_60"/>
+                                <rest dur="minima" xml:id="_61"/>
+                                <note pname="e" oct="4" dur="minima" stem.dir="down" xml:id="_62"/>
+                                <note pname="f" oct="4" dur="minima" stem.dir="down" xml:id="_63"/>
+                                <note pname="e" oct="4" dur="minima" stem.dir="down" xml:id="_64"/>
+                                <dot form="aug" xml:id="_65"/>
+                                <note pname="d" oct="4" dur="semiminima" stem.dir="down" xml:id="_66"/>
+                                <note pname="d" oct="4" dur="semibrevis" xml:id="_67"/>
+                                <note pname="c" oct="4" dur="minima" stem.dir="up" xml:id="_68"/>
+                                <note pname="a" oct="3" dur="minima" stem.dir="up" xml:id="_69"/>
+                                <note pname="b" oct="3" dur="minima" stem.dir="up" xml:id="_70"/>
+                                <note pname="c" oct="4" dur="semibrevis" xml:id="_71"/>
+                                <note pname="d" oct="4" dur="semibrevis" xml:id="_72"/>
+                                <rest dur="minima" xml:id="_73"/>
+                                <note pname="e" oct="4" dur="minima" stem.dir="down" xml:id="_74"/>
+                                <note pname="f" oct="4" dur="minima" stem.dir="down" xml:id="_75"/>
+                                <note pname="f" oct="4" dur="minima" stem.dir="down" xml:id="_76"/>
+                                <note pname="e" oct="4" dur="brevis" xml:id="_77"/>
+                                <note pname="a" oct="3" dur="semibrevis" xml:id="_78"/>
+                                <custos pname="d" oct="4" xml:id="_79"/>
+                                <sb xml:id="_1a5ea7da-3957-4806-835c-bc274273f4ef"/>
+                                <rest dur="longa" xml:id="_81"/>
+                                <rest dur="brevis" xml:id="_82"/>
+                                <rest dur="minima" xml:id="_83"/>
+                                <note pname="d" oct="4" dur="minima" stem.dir="down" xml:id="_84"/>
+                                <dot form="aug" xml:id="_85"/>
+                                <note pname="d" oct="4" dur="semiminima" stem.dir="down" xml:id="_86"/>
+                                <note pname="d" oct="4" dur="minima" stem.dir="down" xml:id="_87"/>
+                                <note pname="e" oct="4" dur="minima" stem.dir="down" xml:id="_88"/>
+                                <note pname="e" oct="4" dur="minima" stem.dir="down" xml:id="_89"/>
+                                <note pname="f" oct="4" dur="minima" stem.dir="down" xml:id="_90"/>
+                                <dot form="aug" xml:id="_91"/>
+                                <note pname="e" oct="4" dur="semiminima" stem.dir="down" xml:id="_92"/>
+                                <note pname="d" oct="4" dur="minima" stem.dir="down" xml:id="_93"/>
+                                <note pname="c" oct="4" dur="minima" stem.dir="up" xml:id="_94"/>
+                                <note pname="b" oct="3" dur="semibrevis" xml:id="_95"/>
+                                <note pname="a" oct="3" dur="brevis" xml:id="_96"/>
+                                <rest dur="semibrevis" xml:id="_97"/>
+                                <rest dur="longa" xml:id="_98"/>
+                                <rest dur="longa" xml:id="_99"/>
+                                <rest dur="minima" xml:id="_100"/>
+                                <note pname="e" oct="4" dur="minima" stem.dir="down" xml:id="_101"/>
+                                <note pname="e" oct="4" dur="minima" stem.dir="down" xml:id="_102"/>
+                                <note pname="e" oct="4" dur="minima" stem.dir="down" xml:id="_103"/>
+                                <note pname="d" oct="4" dur="minima" stem.dir="down" xml:id="_104"/>
+                                <dot form="aug" xml:id="_105"/>
+                                <note pname="e" oct="4" dur="semiminima" stem.dir="down" xml:id="_106"/>
+                                <note pname="f" oct="4" dur="minima" stem.dir="down" xml:id="_107"/>
+                                <note pname="e" oct="4" dur="minima" stem.dir="down" xml:id="_108"/>
+                                <note pname="d" oct="4" dur="minima" stem.dir="down" xml:id="_109"/>
+                                <note pname="c" oct="4" dur="minima" stem.dir="up" xml:id="_110">
+                                    <accid accid="s"/>
+                                </note>
+                                <note pname="d" oct="4" dur="semibrevis" xml:id="_111"/>
+                                <note pname="c" oct="4" dur="semibrevis" xml:id="_112"/>
+                                <rest dur="minima" xml:id="_113"/>
+                                <note pname="e" oct="4" dur="minima" stem.dir="down" xml:id="_114"/>
+                                <note pname="f" oct="4" dur="minima" stem.dir="down" xml:id="_115"/>
+                                <note pname="e" oct="4" dur="minima" stem.dir="down" xml:id="_116"/>
+                                <note pname="f" oct="4" dur="semibrevis" xml:id="_117"/>
+                                <note pname="e" oct="4" dur="minima" stem.dir="down" xml:id="_118"/>
+                                <note pname="e" oct="4" dur="semibrevis" xml:id="_119"/>
+                                <note pname="d" oct="4" dur="minima" stem.dir="down" xml:id="_120"/>
+                                <note pname="c" oct="4" dur="minima" stem.dir="up" xml:id="_121"/>
+                                <note pname="b" oct="3" dur="minima" stem.dir="up" xml:id="_122"/>
+                                <note pname="a" oct="3" dur="semiminima" stem.dir="up" xml:id="_123"/>
+                                <note pname="a" oct="3" dur="semiminima" stem.dir="up" xml:id="_124"/>
+                                <note pname="a" oct="4" dur="minima" stem.dir="down" xml:id="_125"/>
+                                <custos pname="a" oct="4" xml:id="_126"/>
+                                <sb xml:id="ef4fe1a8-bd76-4325-a9c7-82aeb5124b1a"/>
+                                <note pname="a" oct="4" dur="minima" stem.dir="down" xml:id="_128"/>
+                                <note pname="g" oct="4" dur="minima" stem.dir="down" xml:id="_129"/>
+                                <note pname="a" oct="4" dur="semibrevis" xml:id="_130"/>
+                                <note pname="d" oct="4" dur="minima" stem.dir="down" xml:id="_131"/>
+                                <note pname="a" oct="4" dur="semibrevis" xml:id="_132"/>
+                                <note pname="g" oct="4" dur="minima" stem.dir="down" xml:id="_133"/>
+                                <note pname="f" oct="4" dur="minima" stem.dir="down" xml:id="_134"/>
+                                <note pname="e" oct="4" dur="minima" stem.dir="down" xml:id="_135"/>
+                                <note pname="d" oct="4" dur="semibrevis" xml:id="_136"/>
+                                <note pname="c" oct="4" dur="minima" stem.dir="up" xml:id="_137"/>
+                                <note pname="c" oct="4" dur="minima" stem.dir="up" xml:id="_138"/>
+                                <note pname="a" oct="3" dur="minima" stem.dir="up" xml:id="_139"/>
+                                <note pname="f" oct="3" dur="semiminima" stem.dir="up" xml:id="_140"/>
+                                <note pname="g" oct="3" dur="semiminima" stem.dir="up" xml:id="_141"/>
+                                <note pname="a" oct="3" dur="semiminima" stem.dir="up" xml:id="_142"/>
+                                <note pname="b" oct="3" dur="semiminima" stem.dir="up" xml:id="_143"/>
+                                <note pname="c" oct="4" dur="minima" stem.dir="up" xml:id="_144"/>
+                                <note pname="a" oct="3" dur="minima" stem.dir="up" xml:id="_145"/>
+                                <note pname="f" oct="3" dur="minima" stem.dir="up" xml:id="_146"/>
+                                <rest dur="minima" xml:id="_147"/>
+                                <note pname="c" oct="4" dur="minima" stem.dir="up" xml:id="_148"/>
+                                <note pname="c" oct="4" dur="minima" stem.dir="up" xml:id="_149"/>
+                                <note pname="b" oct="3" dur="minima" stem.dir="up" xml:id="_150"/>
+                                <note pname="c" oct="4" dur="semibrevis" xml:id="_151"/>
+                                <note pname="g" oct="3" dur="semibrevis" xml:id="_152"/>
+                                <rest dur="semibrevis" xml:id="_153"/>
+                                <rest dur="minima" xml:id="_154"/>
+                                <note pname="g" oct="4" dur="minima" stem.dir="down" xml:id="_155"/>
+                                <note pname="g" oct="4" dur="minima" stem.dir="down" xml:id="_156"/>
+                                <note pname="f" oct="4" dur="minima" stem.dir="down" xml:id="_157"/>
+                                <note pname="g" oct="4" dur="semibrevis" xml:id="_158"/>
+                                <note pname="g" oct="4" dur="semibrevis" xml:id="_159"/>
+                                <rest dur="minima" xml:id="_160"/>
+                                <note pname="d" oct="4" dur="minima" stem.dir="down" xml:id="_161"/>
+                                <note pname="d" oct="4" dur="minima" stem.dir="down" xml:id="_162"/>
+                                <note pname="d" oct="4" dur="minima" stem.dir="down" xml:id="_163"/>
+                                <note pname="e" oct="4" dur="minima" stem.dir="down" xml:id="_164"/>
+                                <dot form="aug" xml:id="_165"/>
+                                <note pname="d" oct="4" dur="semiminima" stem.dir="down" xml:id="_166"/>
+                                <note pname="c" oct="4" dur="semiminima" stem.dir="up" xml:id="_167"/>
+                                <note pname="b" oct="3" dur="semiminima" stem.dir="up" xml:id="_168"/>
+                                <note pname="a" oct="3" dur="minima" stem.dir="up" xml:id="_169"/>
+                                <custos pname="d" oct="4" xml:id="_170"/>
+                                <sb xml:id="d1fbb21a-d018-48c8-b61a-51b6e47f1b61"/>
+                                <note pname="d" oct="4" dur="minima" stem.dir="down" xml:id="_172"/>
+                                <note pname="c" oct="4" dur="minima" stem.dir="up" xml:id="_173"/>
+                                <note pname="d" oct="4" dur="minima" stem.dir="down" xml:id="_174"/>
+                                <note pname="g" oct="3" dur="semiminima" stem.dir="up" xml:id="_175"/>
+                                <note pname="g" oct="4" dur="semiminima" stem.dir="down" xml:id="_176"/>
+                                <note pname="g" oct="4" dur="minima" stem.dir="down" xml:id="_177"/>
+                                <note pname="g" oct="4" dur="minima" stem.dir="down" xml:id="_178"/>
+                                <note pname="f" oct="4" dur="minima" stem.dir="down" xml:id="_179"/>
+                                <note pname="d" oct="4" dur="minima" stem.dir="down" xml:id="_180"/>
+                                <note pname="a" oct="4" dur="semibrevis" xml:id="_181"/>
+                                <dot form="aug" xml:id="_182"/>
+                                <note pname="g" oct="4" dur="minima" stem.dir="down" xml:id="_183"/>
+                                <note pname="f" oct="4" dur="minima" stem.dir="down" xml:id="_184"/>
+                                <note pname="g" oct="4" dur="minima" stem.dir="down" xml:id="_185"/>
+                                <dot form="aug" xml:id="_186"/>
+                                <note pname="f" oct="4" dur="semiminima" stem.dir="down" xml:id="_187"/>
+                                <note pname="f" oct="4" dur="semibrevis" xml:id="_188"/>
+                                <note pname="e" oct="4" dur="minima" stem.dir="down" xml:id="_189"/>
+                                <note pname="f" oct="4" dur="minima" stem.dir="down" xml:id="_190"/>
+                                <dot form="aug" xml:id="_191"/>
+                                <note pname="e" oct="4" dur="semiminima" stem.dir="down" xml:id="_192"/>
+                                <note pname="d" oct="4" dur="semibrevis" xml:id="_193"/>
+                                <note pname="c" oct="4" dur="minima" stem.dir="up" xml:id="_194"/>
+                                <note pname="a" oct="3" dur="semiminima" stem.dir="up" xml:id="_195"/>
+                                <note pname="b" oct="3" dur="semiminima" stem.dir="up" xml:id="_196"/>
+                                <note pname="c" oct="4" dur="semiminima" stem.dir="up" xml:id="_197"/>
+                                <note pname="d" oct="4" dur="semiminima" stem.dir="down" xml:id="_198"/>
+                                <note pname="e" oct="4" dur="minima" stem.dir="down" xml:id="_199"/>
+                                <note pname="a" oct="3" dur="minima" stem.dir="up" xml:id="_200"/>
+                                <note pname="a" oct="4" dur="semibrevis" xml:id="_201"/>
+                                <note pname="g" oct="4" dur="minima" stem.dir="down" xml:id="_202"/>
+                                <note pname="a" oct="4" dur="semibrevis" xml:id="_203"/>
+                                <note pname="f" oct="4" dur="semibrevis" xml:id="_204"/>
+                                <note pname="e" oct="4" dur="semibrevis" xml:id="_205"/>
+                                <note pname="a" oct="4" dur="semibrevis" xml:id="_206"/>
+                                <dot form="aug" xml:id="_207"/>
+                                <note pname="g" oct="4" dur="semiminima" stem.dir="down" xml:id="_208"/>
+                                <note pname="f" oct="4" dur="semiminima" stem.dir="down" xml:id="_209"/>
+                                <note pname="g" oct="4" dur="semibrevis" xml:id="_210"/>
+                                <note pname="a" oct="4" dur="minima" stem.dir="down" xml:id="_211"/>
+                                <note pname="a" oct="4" dur="minima" stem.dir="down" xml:id="_212"/>
+                                <note pname="g" oct="4" dur="minima" stem.dir="down" xml:id="_213"/>
+                                <note pname="f" oct="4" dur="minima" stem.dir="down" xml:id="_214"/>
+                                <note pname="e" oct="4" dur="semibrevis" xml:id="_215"/>
+                                <custos pname="e" oct="4" xml:id="_216"/>
+                                <sb xml:id="_484811a6-9d17-4179-a515-b9343939cbd8"/>
+                                <rest dur="brevis" xml:id="_218"/>
+                                <note pname="e" oct="4" dur="brevis" xml:id="_219"/>
+                                <note pname="f" oct="4" dur="semibrevis" xml:id="_220"/>
+                                <note pname="b" oct="3" dur="brevis" xml:id="_221">
+                                    <accid accid="f"/>
+                                </note>
+                                <note pname="c" oct="4" dur="brevis" xml:id="_222"/>
+                                <note pname="f" oct="3" dur="minima" stem.dir="up" xml:id="_223"/>
+                                <note pname="f" oct="4" dur="minima" stem.dir="down" xml:id="_224"/>
+                                <note pname="d" oct="4" dur="minima" stem.dir="down" xml:id="_225"/>
+                                <note pname="c" oct="4" dur="minima" stem.dir="up" xml:id="_226"/>
+                                <note pname="d" oct="4" dur="minima" stem.dir="down" xml:id="_227"/>
+                                <note pname="d" oct="4" dur="minima" stem.dir="down" xml:id="_228"/>
+                                <note pname="e" oct="4" dur="semibrevis" xml:id="_229"/>
+                                <rest dur="brevis" xml:id="_230"/>
+                                <rest dur="semibrevis" xml:id="_231"/>
+                                <rest dur="minima" xml:id="_232"/>
+                                <note pname="c" oct="4" dur="minima" stem.dir="up" xml:id="_233"/>
+                                <note pname="d" oct="4" dur="minima" stem.dir="down" xml:id="_234"/>
+                                <note pname="e" oct="4" dur="minima" stem.dir="down" xml:id="_235"/>
+                                <note pname="f" oct="4" dur="minima" stem.dir="down" xml:id="_236"/>
+                                <note pname="f" oct="4" dur="semibrevis" xml:id="_237"/>
+                                <note pname="e" oct="4" dur="minima" stem.dir="down" xml:id="_238"/>
+                                <dot form="aug" xml:id="_239"/>
+                                <note pname="d" oct="4" dur="semiminima" stem.dir="down" xml:id="_240"/>
+                                <note pname="d" oct="4" dur="semibrevis" xml:id="_241"/>
+                                <note pname="c" oct="4" dur="minima" stem.dir="up" xml:id="_242"/>
+                                <note pname="b" oct="3" dur="minima" stem.dir="up" xml:id="_243"/>
+                                <note pname="a" oct="3" dur="minima" stem.dir="up" xml:id="_244"/>
+                                <note pname="g" oct="3" dur="semibrevis" xml:id="_245"/>
+                                <note pname="a" oct="3" dur="semibrevis" xml:id="_246"/>
+                                <rest dur="minima" xml:id="_247"/>
+                                <note pname="c" oct="4" dur="minima" stem.dir="up" xml:id="_248"/>
+                                <note pname="d" oct="4" dur="minima" stem.dir="down" xml:id="_249"/>
+                                <note pname="e" oct="4" dur="minima" stem.dir="down" xml:id="_250"/>
+                                <note pname="f" oct="4" dur="minima" stem.dir="down" xml:id="_251"/>
+                                <note pname="f" oct="4" dur="minima" stem.dir="down" xml:id="_252"/>
+                                <note pname="e" oct="4" dur="minima" stem.dir="down" xml:id="_253"/>
+                                <note pname="e" oct="4" dur="minima" stem.dir="down" xml:id="_254"/>
+                                <note pname="d" oct="4" dur="minima" stem.dir="down" xml:id="_255"/>
+                                <note pname="c" oct="4" dur="minima" stem.dir="up" xml:id="_256"/>
+                                <note pname="b" oct="3" dur="semibrevis" xml:id="_257"/>
+                                <note pname="a" oct="3" dur="longa" stem.dir="up" xml:id="_258"/>
+                                <barLine xml:id="_259"/>
+                                <barLine xml:id="_260"/>
+                            </layer>
+                        </staff>
+                    </section>
+                </score>
+            </mdiv>
+        </body>
+    </music>
+</mei>
